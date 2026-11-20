@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225240077
+# Name:LAKSHMI PRANAY N
+# Date:20-11-2026
 
 
 # AIM:
@@ -29,6 +29,8 @@ A use case diagram is a graphical depiction of a user's possible interactions wi
 UML is the modeling toolkit that you can use to build your diagrams. Use cases are represented with a labeled oval shape.
 
 Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
+<img width="991" height="897" alt="image" src="https://github.com/user-attachments/assets/7fd75607-f9fa-41bf-8195-7314f981512d" />
+
 # UML use case diagrams are ideal for:
 
 Representing the goals of system-user interactions
@@ -59,6 +61,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1346" height="822" alt="image" src="https://github.com/user-attachments/assets/0c5533d7-5384-4f3b-aee8-e1f91636ccf0" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -67,6 +70,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1157" height="902" alt="image" src="https://github.com/user-attachments/assets/9d07adba-ecc9-4d38-ab8b-bc6b59051452" />
 
 
 
@@ -82,6 +86,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1277" height="653" alt="image" src="https://github.com/user-attachments/assets/b4afb374-dd63-41a9-8cae-3e68fb7856d6" />
 
 
 
@@ -98,6 +103,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1258" height="907" alt="image" src="https://github.com/user-attachments/assets/1cd32f91-0e9c-49ea-a2fd-a13a2363dfbb" />
 
 
 
@@ -120,6 +126,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+<img width="1257" height="907" alt="image" src="https://github.com/user-attachments/assets/ba9f2ca9-2bc6-4104-a9cf-5a6b649525dc" />
 
 
 
